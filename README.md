@@ -13,7 +13,7 @@
   <img style="margin-top: 10px; margin-left: 6px;" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
   <img style="margin-top: 10px; margin-left: 6px;" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></img>
   <img style="margin-top: 10px; margin-left: 6px;" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-  badge&logo=javascript&logoColor=black"></img>
-  <img style="margin-top: 10px; margin-left: 6px;" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
+  <img style="margin-left: 6px;" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-oli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
