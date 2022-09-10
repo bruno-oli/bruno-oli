@@ -13,6 +13,8 @@
   <img style="margin-left: 6px;" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
   <img style="margin-left: 6px;" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></img>
   <img style="margin-left: 6px;" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
+  <img style="margin-left: 6px;" alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-  components&logoColor=white"></img>
+  <img style="margin-left: 6px;" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></img>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-oli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
