@@ -1,24 +1,50 @@
-## Olá, eu sou o Bruno Max 🖖
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-max-3665b3223/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno.sayden/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomax84411@gmail.com)
+![](https://komarev.com/ghpvc/?username=bruno-oliSwerts&color=006bed)
 
-![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-oli&show_icons=true&theme=dark)
+<h3> :man: &nbsp;Sobre mim </h3>
 
-### Tecnologias que eu uso:
+- 🤔 &nbsp; Explorando novas tecnologias **Front-End**.
+- 🎓 &nbsp; Planejo cursar **Analise e Desenvolvimento de Sistemas**.
+- 🌱 &nbsp; Aprendendo mais sobre **TypeScript e Clean Code**.
 
-<div style="margin-bottom: 5px;">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
-  <img style="margin-left: 6px;" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
-  <img style="margin-left: 6px;" alt="JavaScript ES6" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
-  <img style="margin-left: 6px;" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></img>
-  <img style="margin-left: 6px;" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
-  <img style="margin-left: 6px;" alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-  components&logoColor=white"></img>
-  <img style="margin-left: 6px;" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></img>
-</div>
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-oli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Linguagens**
 
-<em style="text-align: center; padding: 8px; border-radius: 10px; color: black; font-size: 1.2rem; display: block; width: 400px; height: 60px; font-weight: bold; background-color: white;">"O amor é uma força tão real quanto a gravidade, experimente de vez em quando."</em>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components)
+  ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)
+  ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components)
 
+**Utilidades**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/bruno-oli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-oli&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Bruno Max](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-max-3665b3223/)](https://www.linkedin.com/in/bruno-max-3665b3223/)
+[![Gmail](https://img.shields.io/badge/-brunomax84411@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunomax84411@gmail.com)](mailto:brunomax84411@gmail.com)
+[![bruno-oli]( https://img.shields.io/github/followers/bruno-oli?label=follow&style=social)](https://github.com/bruno-oli)
