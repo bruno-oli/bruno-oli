@@ -19,7 +19,6 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components)
   ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)
-  ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components)
 
 **Utilidades**
 
