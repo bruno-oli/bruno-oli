@@ -9,7 +9,7 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Linguagens**
+**Linguagens/Frameworks/Libs**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
