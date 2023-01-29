@@ -3,9 +3,9 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias **Front-End**.
+- 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Planejo cursar **Analise e Desenvolvimento de Sistemas**.
-- 🌱 &nbsp; Aprendendo mais sobre **TypeScript e Clean Code**.
+- 🌱 &nbsp; Aprendendo mais sobre **TypeScript, Node e Express**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
