@@ -17,6 +17,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Vue](https://img.shields.io/badge/-Vue%20Js-333333?style=flat&logo=vuedotjs)
   ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components)
   ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)
 
