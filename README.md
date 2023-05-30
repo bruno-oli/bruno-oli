@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Planejo cursar **Analise e Desenvolvimento de Sistemas**.
-- 🌱 &nbsp; Aprendendo mais sobre **Vue 3**.
+- 🌱 &nbsp; Aprendendo mais sobre **React JS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
