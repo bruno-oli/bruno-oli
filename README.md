@@ -3,38 +3,33 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias.
-- 🎓 &nbsp; Planejo cursar **Analise e Desenvolvimento de Sistemas**.
-- 🌱 &nbsp; Aprendendo mais sobre **React JS**.
+- 🤔 &nbsp; Desenvolvedor Full-Stack explorando novas tecnologias.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Linguagens/Frameworks/Libs**
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-Vue%20Js-333333?style=flat&logo=vuedotjs)
-  ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components)
-  ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)
+**Algumas Linguagens/Frameworks/Libs**
+  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma&logoColor=white)
+  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+  ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
+  ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 **Utilidades**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![postman](https://img.shields.io/badge/postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+  ![Insomnia](https://img.shields.io/badge/insomnia-000?style=for-the-badge&logo=insomnia&logoColor=5D00D2)
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 
 <br/>
 
