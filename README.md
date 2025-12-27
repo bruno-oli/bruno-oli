@@ -47,6 +47,7 @@
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
 
 ### 🧪 Testes & Ferramentas
