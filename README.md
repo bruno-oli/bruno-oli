@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Bruno</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> • Node • Nest JS • React • React Native
+  <strong>Full-Stack Developer</strong> • Node • Typescript • Nest JS • Fastify • Express • React • React Native • Expo
 </p>
 
 <p align="center">
